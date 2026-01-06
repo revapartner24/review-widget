@@ -1,6 +1,0 @@
-github
-==================================================
-https://boxmedia-agency.github.io/review-widget/
-
-https://boxmedia-agency.github.io/review-widget/widget.html
-https://boxmedia-agency.github.io/review-widget/thank-you.html
